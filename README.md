@@ -18,7 +18,7 @@ https://spam-detection-cwnextbn6tifbiextjyget.streamlit.app
 ![Spam Example](Spam.png)
 
 ### Not Spam Example
-![Not Spam Example](NotSpam.png)
+![Not Spam Example](Not%20Spam.png)
 
 
 
