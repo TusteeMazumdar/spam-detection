@@ -12,6 +12,16 @@ Try the deployed app here:
 
 https://spam-detection-cwnextbn6tifbiextjyget.streamlit.app
 
+## Example Predictions
+
+### Spam Example
+![Spam Example](Spam.png)
+
+### Not Spam Example
+![Not Spam Example](NotSpam.png)
+
+
+
 ## Project Overview
 
 Spam detection is a classic **text classification problem** in machine learning.
@@ -105,23 +115,6 @@ Then open:
 http://localhost:8501
 ```
 
----
-
-## Example
-
-Input:
-
-```
-Congratulations! You won a free ticket
-```
-
-Output:
-
-```
-SPAM
-```
-
----
 
 ## Technologies Used
 
