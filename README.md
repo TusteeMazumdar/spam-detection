@@ -6,6 +6,12 @@ This project demonstrates the complete ML workflow — from training a model to 
 
 ---
 
+Live Demo
+
+Try the deployed app here:
+
+https://spam-detection-cwnextbn6tifbiextjyget.streamlit.app
+
 ## Project Overview
 
 Spam detection is a classic **text classification problem** in machine learning.
